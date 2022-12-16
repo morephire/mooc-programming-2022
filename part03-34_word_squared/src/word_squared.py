@@ -1,4 +1,6 @@
-# Write your solution here# Write your solution here
+# NOTE
+# THIS IS A NON WORKING SOLUTION
+
 def squared(string: str,size : int):
     i = 0
     while i < size:
